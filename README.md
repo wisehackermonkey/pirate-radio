@@ -46,8 +46,10 @@ example:
 ssh root@192.168.1.74
 ```
 
-## 
+## TODO
 ```
+- finish installing dietpi 
+- finish installing pifm
 ```
 
 
