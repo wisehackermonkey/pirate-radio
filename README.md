@@ -31,6 +31,7 @@ dietpi-wifi.txt for the correct settings
 
 
 ## test for successfull install of dietpi
+![Screenshot_3](/assets/Screenshot_3.jpg)
 ```
 ping <ip of dietpi machine>
 example:
@@ -38,6 +39,7 @@ ping 192.168.1.74
 ```
 
 ## login to machine
+![Screenshot_4](/assets/Screenshot_4.jpg)
 ```
 ssh root@<ip of dietpi machine>
 example:

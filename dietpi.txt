@@ -97,7 +97,7 @@ AUTO_SETUP_AUTOMATED=1
 # Global Password to be applied for the system
 # - Affects user "root" and "dietpi" login passwords, and, all software installed by dietpi-software, that requires a login password
 # - WARN: Passwords with any of the following characters are not supported: \"$
-AUTO_SETUP_GLOBAL_PASSWORD=cluster#4
+AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 
 # Software to automatically install
 # - List of available software IDs: https://github.com/MichaIng/DietPi/wiki/DietPi-Software-list
