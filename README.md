@@ -55,6 +55,13 @@ ssh root@192.168.1.74
 ```
 ```
 
-## 
+## Links
 ```
+install instructions pifm
+https://www.instructables.com/id/Raspberry-Pi-PiFMPlay-Simplified-FM-Transmitter/
+
+alternate
+https://pimylifeup.com/raspberry-pi-pirate-radio/
+
+https://github.com/MichaIng/DietPi/blob/master/dietpi.txt
 ```
